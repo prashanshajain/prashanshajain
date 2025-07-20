@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @prashanshajain
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey, I’m Prashansha — Front-End Engineer & Data-Viz Enthusiast 🚀
 
-<!---
-prashanshajain/prashanshajain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **React / TypeScript** specialist with **6 + years** turning complex datasets into intuitive, responsive UIs, from real-time PWAs to richly animated dashboards. My happy place is the intersection of design and code, where **D3.js** and **Apache ECharts** help stories jump off the screen.:contentReference[oaicite:0]{index=0}
+
+#### 🛠  Tech I reach for daily  
+- **Languages:** TypeScript, JavaScript, HTML & CSS  
+- **Frameworks & Libraries:** React, Next.js, Mantine, Lit  
+- **Data-Viz:** D3.js, Apache ECharts, amCharts  
+- **Quality & DX:** Storybook, Jest, Playwright, Webpack, GitHub Actions 
